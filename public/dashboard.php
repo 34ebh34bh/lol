@@ -1,0 +1,26 @@
+<?php
+session_start();
+use App\crudTwo;
+use App\user;
+require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . '/m.php';
+$dsn = 'mysql:host=localhost;dbname=crud;charset=utf8';
+$user = 'root';
+$pass = 'egq34ggwegFA';
+
+$user = new user($dsn, $user, $pass);
+?>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<?=print_r($_SESSION['user_name'])?>
+
+</body>
+</html>

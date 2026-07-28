@@ -1,0 +1,2 @@
+[2025-10-04 20:45:07] Ошибка подключения: SQLSTATE[HY000] [1045] Access denied for user 'ro1ot'@'localhost' (using password: YES)
+[2025-10-05 11:38:51] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)

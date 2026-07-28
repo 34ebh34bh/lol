@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Vspomnit\\": "Vspomnit/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^12.4"
+  },
+  "require": {
+    "phpmailer/phpmailer": "^7.0",
+    "ext-mbstring": "*"
+  }
+}

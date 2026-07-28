@@ -1,0 +1,1 @@
+a:2:{i:0;O:11:"App\Contact":3:{s:4:"name";s:5:"anton";s:5:"phone";s:9:"789483753";s:5:"email";s:12:"lol@email.ru";}i:1;O:11:"App\Contact":3:{s:4:"name";s:6:"Andrei";s:5:"phone";s:9:"304959832";s:5:"email";s:16:"anderei@email.ru";}}
