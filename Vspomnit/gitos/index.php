@@ -1,2 +1,2 @@
 <?php
-echo "ededee";
+echo "auth next";
