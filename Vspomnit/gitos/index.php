@@ -1,2 +1,2 @@
 <?php
-echo "auth next";
+echo "dew 1 тока сделал комит и пуш в ветке 1";

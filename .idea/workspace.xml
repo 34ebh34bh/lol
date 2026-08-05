@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9365bd8d-eecc-4685-935d-6b273ce246e8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Vspomnit/gitos/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Vspomnit/gitos/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +18,26 @@
       <executable path="composer" />
     </execution>
   </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/OSPanel/home/ProjVperedIbexSomnenii" value="2uJeUEWdlYtV6HK9S5GjOSyC51N" />
+    </persistenceIdMap>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "34ebh34bh"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/34ebh34bh/lol.git",
+    "accountId": "972a702f-a9b7-4b81-9e38-fbefb5b7bf2b"
+  }
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php\php.exe">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
@@ -227,6 +244,7 @@
     "PHPUnit.TestUser.testverifed.executor": "Run",
     "PHPUnit.UserRepositoryTest.testadd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary": "PHPUnit",
     "git-widget-placeholder": "auth-next",
     "ignore.virus.scanning.warn.message": "true",
@@ -719,6 +737,7 @@
       <workItem from="1777976666249" duration="2800000" />
       <workItem from="1778623662052" duration="6000" />
       <workItem from="1785254014732" duration="686000" />
+      <workItem from="1785946856939" duration="1790000" />
     </task>
     <servers />
   </component>
@@ -728,5 +747,13 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
