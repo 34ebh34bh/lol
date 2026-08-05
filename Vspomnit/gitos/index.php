@@ -1,2 +1,2 @@
 <?php
-echo "auth next";
+echo "git dev2 ";
